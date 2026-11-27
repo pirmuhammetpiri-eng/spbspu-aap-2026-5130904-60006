@@ -1,0 +1,902 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/aleshin.gleb/P0/main.o",
+      "aleshin.gleb/P0/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/aleshin.gleb/P0/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/aleshin.gleb/P0/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/aleshin.gleb/P1/main.o",
+      "aleshin.gleb/P1/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/aleshin.gleb/P1/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/aleshin.gleb/P1/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/aleshin.gleb/P3/main.o",
+      "aleshin.gleb/P3/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/aleshin.gleb/P3/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/aleshin.gleb/P3/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/baranov.vladimir/P0/main.o",
+      "baranov.vladimir/P0/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/baranov.vladimir/P0/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/baranov.vladimir/P0/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/batyushov.rostislav/P0/main.o",
+      "batyushov.rostislav/P0/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/batyushov.rostislav/P0/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/batyushov.rostislav/P0/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/batyushov.rostislav/P1/main.o",
+      "batyushov.rostislav/P1/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/batyushov.rostislav/P1/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/batyushov.rostislav/P1/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/belova.arina/P0/main.o",
+      "belova.arina/P0/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/belova.arina/P0/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/belova.arina/P0/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/bondarenko.ivan/P0/main.o",
+      "bondarenko.ivan/P0/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/bondarenko.ivan/P0/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/bondarenko.ivan/P0/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/bondarenko.ivan/P1/main.o",
+      "bondarenko.ivan/P1/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/bondarenko.ivan/P1/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/bondarenko.ivan/P1/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/braterskaia.ksenia/P0/main.o",
+      "braterskaia.ksenia/P0/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/braterskaia.ksenia/P0/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/braterskaia.ksenia/P0/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/braterskaia.ksenia/P1/main.o",
+      "braterskaia.ksenia/P1/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/braterskaia.ksenia/P1/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/braterskaia.ksenia/P1/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/bychkova.ekaterina/P0/main.o",
+      "bychkova.ekaterina/P0/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/bychkova.ekaterina/P0/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/bychkova.ekaterina/P0/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/bychkova.ekaterina/P1/main.o",
+      "bychkova.ekaterina/P1/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/bychkova.ekaterina/P1/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/bychkova.ekaterina/P1/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/chizhova.alice/P0/main.o",
+      "chizhova.alice/P0/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/chizhova.alice/P0/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/chizhova.alice/P0/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/dortman.alexey/P0/main.o",
+      "dortman.alexey/P0/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/dortman.alexey/P0/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/dortman.alexey/P0/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/dortman.alexey/P1/main.o",
+      "dortman.alexey/P1/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/dortman.alexey/P1/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/dortman.alexey/P1/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/dortman.alexey/P3/main.o",
+      "dortman.alexey/P3/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/dortman.alexey/P3/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/dortman.alexey/P3/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/haidov.vasiliy/P0/main.o",
+      "haidov.vasiliy/P0/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/haidov.vasiliy/P0/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/haidov.vasiliy/P0/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/haidov.vasiliy/P1/main.o",
+      "haidov.vasiliy/P1/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/haidov.vasiliy/P1/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/haidov.vasiliy/P1/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/nazin.roman/P0/main.o",
+      "nazin.roman/P0/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/nazin.roman/P0/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/nazin.roman/P0/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/nurmedov.pirmuhammet/P0/main.o",
+      "nurmedov.pirmuhammet/P0/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/nurmedov.pirmuhammet/P0/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/nurmedov.pirmuhammet/P0/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/nurmedov.pirmuhammet/P1/main.o",
+      "nurmedov.pirmuhammet/P1/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/nurmedov.pirmuhammet/P1/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/nurmedov.pirmuhammet/P1/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/pershinov.andrey/P0/main.o",
+      "pershinov.andrey/P0/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/pershinov.andrey/P0/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/pershinov.andrey/P0/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/pershinov.andrey/P1/main.o",
+      "pershinov.andrey/P1/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/pershinov.andrey/P1/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/pershinov.andrey/P1/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/pershinov.andrey/P3/main.o",
+      "pershinov.andrey/P3/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/pershinov.andrey/P3/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/pershinov.andrey/P3/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/podvalnyj.ivan/P0/main.o",
+      "podvalnyj.ivan/P0/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/podvalnyj.ivan/P0/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/podvalnyj.ivan/P0/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/podvalnyj.ivan/P1/main.o",
+      "podvalnyj.ivan/P1/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/podvalnyj.ivan/P1/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/podvalnyj.ivan/P1/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/podvalnyj.ivan/P3/main.o",
+      "podvalnyj.ivan/P3/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/podvalnyj.ivan/P3/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/podvalnyj.ivan/P3/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/proskuryakov.egor/P0/main.o",
+      "proskuryakov.egor/P0/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/proskuryakov.egor/P0/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/proskuryakov.egor/P0/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/proskuryakov.egor/P1/main.o",
+      "proskuryakov.egor/P1/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/proskuryakov.egor/P1/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/proskuryakov.egor/P1/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/proskuryakov.egor/P3/main.o",
+      "proskuryakov.egor/P3/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/proskuryakov.egor/P3/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/proskuryakov.egor/P3/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/repina.elena/P0/main.o",
+      "repina.elena/P0/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/repina.elena/P0/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/repina.elena/P0/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/repina.elena/P1/main.o",
+      "repina.elena/P1/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/repina.elena/P1/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/repina.elena/P1/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/semin.alexey/P0/main.o",
+      "semin.alexey/P0/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/semin.alexey/P0/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/semin.alexey/P0/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/sergeev.dmitriy/P0/main.o",
+      "sergeev.dmitriy/P0/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/sergeev.dmitriy/P0/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/sergeev.dmitriy/P0/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/sergeev.dmitriy/P1/main.o",
+      "sergeev.dmitriy/P1/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/sergeev.dmitriy/P1/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/sergeev.dmitriy/P1/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/sergeev.dmitriy/P3/main.o",
+      "sergeev.dmitriy/P3/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/sergeev.dmitriy/P3/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/sergeev.dmitriy/P3/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/sherbakov.vladislav/P0/main.o",
+      "sherbakov.vladislav/P0/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/sherbakov.vladislav/P0/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/sherbakov.vladislav/P0/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/sherbakov.vladislav/P1/main.o",
+      "sherbakov.vladislav/P1/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/sherbakov.vladislav/P1/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/sherbakov.vladislav/P1/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/usanov.egor/P0/main.o",
+      "usanov.egor/P0/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/usanov.egor/P0/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/usanov.egor/P0/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/usanov.egor/P1/main.o",
+      "usanov.egor/P1/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/usanov.egor/P1/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/usanov.egor/P1/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/voloschuk.artem/P0/main.o",
+      "voloschuk.artem/P0/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/voloschuk.artem/P0/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/voloschuk.artem/P0/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/zakirov.azat/P0/main.o",
+      "zakirov.azat/P0/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/zakirov.azat/P0/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/zakirov.azat/P0/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/zakirov.azat/P1/main.o",
+      "zakirov.azat/P1/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/zakirov.azat/P1/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/zakirov.azat/P1/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-missing-field-initializers",
+      "-Werror=vla",
+      "-Wold-style-cast",
+      "-std=c++14",
+      "-g",
+      "-c",
+      "-o",
+      "out/zorin.sergey/P0/main.o",
+      "zorin.sergey/P0/main.cpp"
+    ],
+    "directory": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006",
+    "file": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/zorin.sergey/P0/main.cpp",
+    "output": "/home/pirmuhammet/spbspu-aap-2026-5130904-60006/out/zorin.sergey/P0/main.o"
+  }
+]
